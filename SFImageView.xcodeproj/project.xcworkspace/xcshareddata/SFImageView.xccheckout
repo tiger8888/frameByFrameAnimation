@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>237AF5DC-0775-4222-BB3B-D853C9029C61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SFImageView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6278006A407171660A19E26B480A32D21305FEF9</key>
+		<string>https://github.com/sbxIOS/frameByFrameAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SFImageView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6278006A407171660A19E26B480A32D21305FEF9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sbxIOS/frameByFrameAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6278006A407171660A19E26B480A32D21305FEF9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6278006A407171660A19E26B480A32D21305FEF9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>frameByFrameAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
